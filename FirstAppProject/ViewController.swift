@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     
     let defoltImageViewColor =  UIColor.brown
     
-    
+
     @IBAction func redView(_ sender: Any) {
         coloredView.backgroundColor = UIColor.red
     }
@@ -50,7 +50,7 @@ class ViewController: UIViewController {
     
     @IBAction func submitButton(_ sender: Any) {
         
-        nameLabel.text = "Valik"
+        nameLabel.text = "Sava"
     }
     
     override func viewDidLoad() {
