@@ -50,7 +50,7 @@ class ViewController: UIViewController {
     
     @IBAction func submitButton(_ sender: Any) {
         
-        nameLabel.text = "John"
+        nameLabel.text = "Valik"
     }
     
     override func viewDidLoad() {
